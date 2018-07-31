@@ -89,8 +89,6 @@
         <splash height="1920" src="res/screens/windows/SplashScreenPhone.scale-240.png" width="1152" />
     </platform>
     <engine name="android" spec="^5.2.1" />
-    <engine name="ios" spec="4.2.0" />
-    <engine name="windows" spec="4.4.2" />
     <engine name="browser" spec="^5.0.3" />
     <plugin name="cordova-plugin-whitelist" spec="^1.2.2" />
 </widget>
