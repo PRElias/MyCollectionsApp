@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "MyCollectionApp",
+  "short_name": "MyCollectionApp",
+  "version": "io.cordova.myapp83e730",
+  "description": "Um projeto em branco que usa o Apache Cordova para ajudar você a criar um aplicativo que tem como destino diversas plataformas: Android, iOS e a Plataforma Universal do Windows.",
+  "author": "Seu nome aqui",
+  "icons": [],
+  "start_url": "index.html"
+}
