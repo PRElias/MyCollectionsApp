@@ -1,1 +1,2 @@
-www/vendor/* linguist-vendored=true
+www/vendor  linguist-vendored=true
+platforms   linguist-vendored=true
