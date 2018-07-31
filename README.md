@@ -2,6 +2,6 @@
 Mobile App
 
 Para executar:
-´´´npm install´´´
-´´´cordova prepare´´´
-´´´cordova run browser´´´
+```npm install```
+```cordova prepare```
+```cordova run browser```
