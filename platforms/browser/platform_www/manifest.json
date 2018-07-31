@@ -1,6 +1,6 @@
 {
-  "name": "MyCollectionApp",
-  "short_name": "MyCollectionApp",
+  "name": "MyCollections",
+  "short_name": "MyCollections",
   "description": "Description of your app from template",
   "start_url": "index.html",
   "scope": "index.html",

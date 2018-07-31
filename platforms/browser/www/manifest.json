@@ -1,11 +1,11 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "MyCollectionApp",
-  "short_name": "MyCollectionApp",
+  "name": "MyCollections",
+  "short_name": "MyCollections",
   "version": "io.cordova.myapp83e730",
-  "description": "Um projeto em branco que usa o Apache Cordova para ajudar você a criar um aplicativo que tem como destino diversas plataformas: Android, iOS e a Plataforma Universal do Windows.",
-  "author": "Seu nome aqui",
+  "description": "App para acompanhamento de coleções.",
+  "author": "Paulo Roberto Elias",
   "icons": [],
   "start_url": "index.html"
 }
