@@ -2,6 +2,8 @@
 Mobile App
 
 Para executar:
-```npm install```
-```cordova prepare```
-```cordova run browser```
+```npm run start```
+
+O comando já executa tudo que precisa conforme package.json
+
+

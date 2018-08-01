@@ -1,11 +1,17 @@
 {
-    "name": "MyCollections",
+    "name": "mycollections",
     "version": "1.0.0",
     "private": true,
     "dependencies": {
+        "bootstrap": "^4.1.3",
         "cordova-android": "^7.0.0",
         "cordova-browser": "^5.0.3",
-        "cordova-plugin-whitelist": "^1.3.3"
+        "cordova-plugin-whitelist": "^1.3.3",
+        "jquery": "^3.3.1",
+        "popper": "^1.0.1"
+    },
+    "scripts": {
+        "start": "npm i & gulp copy:libs & cordova prepare & cordova run browser"
     },
     "cordova": {
         "platforms": [
@@ -15,5 +21,10 @@
         "plugins": {
             "cordova-plugin-whitelist": {}
         }
+    },
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-npm-dist": "^1.0.2",
+        "gulp-rename": "^1.4.0"
     }
 }
