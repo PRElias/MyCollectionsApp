@@ -4,11 +4,11 @@
     "private": true,
     "dependencies": {
         "bootstrap": "^4.1.3",
-        "cordova-android": "^7.0.0",
+        "cordova-android": "^7.1.1",
         "cordova-browser": "^5.0.3",
         "cordova-plugin-whitelist": "^1.3.3",
         "jquery": "^3.3.1",
-        "popper": "^1.0.1"
+        "popper.js": "^1.14.3"
     },
     "scripts": {
         "start": "npm i & gulp copy:libs & cordova prepare & cordova run browser"
